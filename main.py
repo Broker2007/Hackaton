@@ -11,6 +11,7 @@ url = f"{server_url}{api}"
 data = {
     'snakes': []
 }
+print(345345)
 # Заголовки заоса
 headers = {
     'X-Auth-Token': token,
